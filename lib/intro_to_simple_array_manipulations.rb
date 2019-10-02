@@ -30,7 +30,7 @@ def using_concat
   
 end
 
-def using_push
+def using_insert
   
 end
 
