@@ -38,7 +38,7 @@ def using_uniq
   
 end
 
-def using_push
+def using_flatten
   
 end
 
