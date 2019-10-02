@@ -1,7 +1,7 @@
-def using_push(array,string)
+def using_push(array,s)
   array=["red", "orange", "yellow", "green", "blue", "indigo"]
-  string=["violet"]
-  array.push(string) 
+  s=["violet"]
+  array.push(s) 
 end
 
 def using_unshift(array,string)
