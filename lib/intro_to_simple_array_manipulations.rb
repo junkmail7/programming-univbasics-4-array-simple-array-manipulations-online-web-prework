@@ -1,6 +1,6 @@
-def using_push(array,s)
+def using_push(array,string)
   array=["red", "orange", "yellow", "green", "blue", "indigo"]
-  s=["violet"]
+  string=["violet"]
   array.push(s) 
 end
 
