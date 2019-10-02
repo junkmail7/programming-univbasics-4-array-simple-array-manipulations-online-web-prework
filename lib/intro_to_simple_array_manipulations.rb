@@ -1,4 +1,4 @@
-def using_push(array,string)
+def using_push()
  newarray=[]
  newarray.push(array).push(string) 
 end
