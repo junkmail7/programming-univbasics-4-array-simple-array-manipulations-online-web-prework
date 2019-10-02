@@ -42,38 +42,6 @@ def using_flatten
   
 end
 
-def using_push
-  
-end
-
-def using_push
-  
-end
-
-def using_push
-  
-end
-
-def using_push
-  
-end
-
-def using_push
-  
-end
-
-def using_push
-  
-end
-
-def using_push
-  
-end
-
-def using_push
-  
-end
-
-def using_push
+def using_delete_at(array,integer)
   
 end
