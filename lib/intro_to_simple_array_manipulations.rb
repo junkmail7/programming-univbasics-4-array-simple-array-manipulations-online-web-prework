@@ -12,7 +12,7 @@ end
 
 def using_pop(array)
   array=["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
-  array1=array.pop()
+  array1=array.pop
 end
 
 def pop_with_args(array)
